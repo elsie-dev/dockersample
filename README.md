@@ -1,5 +1,4 @@
-#
-Deploying python application with Docker and CICD
+# Deploying python application with Docker and CICD
 
 Build an image in docker then run containers
 
